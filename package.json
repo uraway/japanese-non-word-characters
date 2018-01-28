@@ -5,7 +5,7 @@
   "description": "Japanese Non Word Characters",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/japanese-non-word-characters",
+  "repository": "https://github.com/uraway/japanese-non-word-characters",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
