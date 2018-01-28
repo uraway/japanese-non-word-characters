@@ -1,0 +1,15 @@
+{
+  "name": "japanese-non-word-characters",
+  "main": "./lib/japanese-non-word-characters",
+  "version": "0.0.0",
+  "description": "Japanese Non Word Characters",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/japanese-non-word-characters",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
