@@ -1,15 +1,13 @@
 {
   "name": "japanese-non-word-characters",
   "main": "./lib/japanese-non-word-characters",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Japanese Non Word Characters",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/uraway/japanese-non-word-characters",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
