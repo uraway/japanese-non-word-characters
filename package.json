@@ -1,7 +1,7 @@
 {
   "name": "japanese-non-word-characters",
   "main": "./lib/japanese-non-word-characters",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Japanese Non Word Characters",
   "keywords": [],
   "repository": "https://github.com/uraway/japanese-non-word-characters",
